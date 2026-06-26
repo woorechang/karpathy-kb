@@ -1,4 +1,4 @@
-# Karpathy 长上下文知识库
+# 人工智能应用开发模型之Karpathy 长上下文知识库
 无向量、无RAG、纯Markdown、LLM直接阅读的轻量级知识库方案
 
 ## 项目介绍
